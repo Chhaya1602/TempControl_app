@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+https://temperature-control-app-45606e.netlify.app/
+![image](https://github.com/user-attachments/assets/0fba6abb-fda0-428a-829a-864012bd705b)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
